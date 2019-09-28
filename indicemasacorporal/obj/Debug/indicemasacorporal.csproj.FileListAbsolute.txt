@@ -1,0 +1,10 @@
+D:\indicemasacorporal\indicemasacorporal\bin\Debug\indicemasacorporal.exe.config
+D:\indicemasacorporal\indicemasacorporal\bin\Debug\indicemasacorporal.exe
+D:\indicemasacorporal\indicemasacorporal\bin\Debug\indicemasacorporal.pdb
+D:\indicemasacorporal\indicemasacorporal\obj\Debug\indicemasacorporal.csprojAssemblyReference.cache
+D:\indicemasacorporal\indicemasacorporal\obj\Debug\indicemasacorporal.Form1.resources
+D:\indicemasacorporal\indicemasacorporal\obj\Debug\indicemasacorporal.Properties.Resources.resources
+D:\indicemasacorporal\indicemasacorporal\obj\Debug\indicemasacorporal.csproj.GenerateResource.cache
+D:\indicemasacorporal\indicemasacorporal\obj\Debug\indicemasacorporal.csproj.CoreCompileInputs.cache
+D:\indicemasacorporal\indicemasacorporal\obj\Debug\indicemasacorporal.exe
+D:\indicemasacorporal\indicemasacorporal\obj\Debug\indicemasacorporal.pdb
